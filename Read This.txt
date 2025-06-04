@@ -1,0 +1,2 @@
+About The Dataset we cannot put in on github cause its too big to make sure you can use our dataset chech this kaggle link:
+https://www.kaggle.com/datasets/marusagar/bank-transaction-fraud-detection
